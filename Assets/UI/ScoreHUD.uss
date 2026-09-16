@@ -1,0 +1,27 @@
+#ScoreLabel {
+    align-self: center;
+    margin-top: 28px;
+    min-width: 170px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    -unity-font-definition: initial;
+    -unity-font: url("../Fonts/Audiowide-Regular.ttf");
+    -unity-text-align: middle-center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(8, 24, 38, 0.65);
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-color: rgb(0, 200, 245);
+    border-bottom-color: rgb(0, 200, 245);
+    border-left-color: rgb(0, 200, 245);
+    border-right-color: rgb(0, 200, 245);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
